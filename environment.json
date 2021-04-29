@@ -1,0 +1,49 @@
+{
+	"id": "485fee28-18d2-4d8b-b434-0304c7ae1136",
+	"name": "group",
+	"values": [
+		{
+			"key": "token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "lera",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "http://116.203.27.46:5002",
+			"enabled": true
+		},
+		{
+			"key": "weight",
+			"value": "50",
+			"enabled": true
+		},
+		{
+			"key": "age",
+			"value": "24",
+			"enabled": true
+		},
+		{
+			"key": "",
+			"value": "",
+			"enabled": false
+		},
+		{
+			"key": "",
+			"value": "",
+			"enabled": false
+		},
+		{
+			"key": "changedSalary",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-04-29T10:41:22.226Z",
+	"_postman_exported_using": "Postman/8.3.0"
+}
